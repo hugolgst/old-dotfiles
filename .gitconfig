@@ -3,3 +3,5 @@
 	username = AnanaGame
 	name = AnanaGame
 	signingkey = 230EED2599F061EF
+[commit]
+	gpgsign = true
