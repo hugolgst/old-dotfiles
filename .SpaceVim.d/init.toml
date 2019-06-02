@@ -25,6 +25,7 @@
     enable_statusline_mode = false
     # Vimfiler
     filetree_direction = "left"
+    bootstrap_before = "leader#before"
 
 # Enable autocomplete layer
 [[layers]]
@@ -44,4 +45,7 @@
   name = 'fatih/vim-go'
 
 [[custom_plugins]]
-  name = 'vim-scripts/vim-auto-save'
+  name = 'rhysd/vim-crystal'
+
+[[custom_plugins]]
+  name = 'posva/vim-vue'
