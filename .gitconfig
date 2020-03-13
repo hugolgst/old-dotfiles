@@ -1,7 +1,0 @@
-[user]
-	email = hugo@olivia-ai.org
-	username = hugolgst
-	name = Hugo Lageneste
-	signingkey = 230EED2599F061EF
-[commit]
-	gpgsign = true
